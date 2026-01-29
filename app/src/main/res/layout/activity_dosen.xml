@@ -13,10 +13,11 @@
         android:layout_height="wrap_content"
         android:text="Dosen PeTIK : "/>
 
+    <!-- diubah dari github -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Arya"/>
+        android:text="Aryanto"/>
 
     <TextView
         android:layout_width="wrap_content"
